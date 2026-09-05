@@ -7,11 +7,24 @@ export const metadata: Metadata = {
   title: 'p-money · paid in pons',
   description:
     'A tax on every trade buys $pons on the open market and pushes it to holder wallets. No staking. No claiming. No lockups.',
-  icons: { icon: '/favicon.png' },
+  icons: {
+    icon: [
+      { url: '/favicon.ico', sizes: 'any' },
+      { url: '/favicon.png', type: 'image/png', sizes: '256x256' },
+    ],
+    apple: '/apple-touch-icon.png',
+  },
   openGraph: {
     title: 'p-money · paid in pons',
     description: 'Hold p-money. Get paid pons. Payouts every 15 minutes.',
-    images: ['/logo.png'],
+    images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'p-money' }],
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'p-money · paid in pons',
+    description: 'Hold p-money. Get paid pons. Payouts every 15 minutes.',
+    images: ['/og-image.png'],
   },
 };
 
