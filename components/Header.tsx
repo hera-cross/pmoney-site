@@ -38,6 +38,8 @@ export default function Header() {
         ))}
         <a
           href={siteConfig.buyUrl || '#'}
+          target={siteConfig.buyUrl ? '_blank' : undefined}
+          rel="noreferrer"
           className="buy-pill"
           style={{ padding: '10px 18px', marginLeft: 8, borderRadius: 4, fontWeight: 500 }}
         >

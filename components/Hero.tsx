@@ -46,6 +46,8 @@ export default function Hero() {
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10, alignItems: 'center' }}>
             <a
               href={siteConfig.buyUrl || '#'}
+              target={siteConfig.buyUrl ? '_blank' : undefined}
+              rel="noreferrer"
               className="buy-primary"
               style={{
                 display: 'inline-flex', alignItems: 'center', gap: 10, padding: '16px 28px', borderRadius: 4,
@@ -57,6 +59,8 @@ export default function Hero() {
             </a>
             <a
               href={siteConfig.xUrl || '#'}
+              target={siteConfig.xUrl ? '_blank' : undefined}
+              rel="noreferrer"
               className="x-button"
               style={{
                 display: 'inline-flex', alignItems: 'center', padding: '16px 26px', borderRadius: 4, gap: 10,
