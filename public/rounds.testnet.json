@@ -1,0 +1,482 @@
+[
+  {
+    "roundId": 113591952,
+    "status": "PAID",
+    "snapshotBlock": 113591952,
+    "timestamp": "2026-09-05T17:40:14.161Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0xc1233e84cdbe800ecdecbfd958bd9ee7d7f1a57bfaa11f2fc0dfcd997147b1a5"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113592742,
+    "status": "PAID",
+    "snapshotBlock": 113592742,
+    "timestamp": "2026-09-05T17:41:37.572Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0xec9263b16732ea264d97113c4b05b6316d7242fb423e1e9967104fb604ee6eb6"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113593190,
+    "status": "PAID",
+    "snapshotBlock": 113593190,
+    "timestamp": "2026-09-05T17:42:30.731Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0x7d365463bdb7450539afd016b9fd2d912f95da00b9403885f6766bf07304832b"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113593312,
+    "status": "PAID",
+    "snapshotBlock": 113593312,
+    "timestamp": "2026-09-05T17:42:47.786Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0x7077f93f17f409034583d62b0ccf81997cdb521c49a94df3c3a31c9f0497d1c1"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113593872,
+    "status": "PAID",
+    "snapshotBlock": 113593872,
+    "timestamp": "2026-09-05T17:44:35.221Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0x9f2743d8341bfbb28f4ff2b497ab3105bc32b3b9173ad95454e7694f6c1b4a4f"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113594477,
+    "status": "PAID",
+    "snapshotBlock": 113594477,
+    "timestamp": "2026-09-05T17:45:03.890Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0xa00f07a7ada97df88c357a3795bb606b6eb1caf5f44e43259e1d018b8cba8c8a"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113597722,
+    "status": "PAID",
+    "snapshotBlock": 113597722,
+    "timestamp": "2026-09-05T17:51:00.869Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0xd027d8e34395001bd72a2bb7ca612066b49672fb18f411cafd0f874b37f08d80"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113601577,
+    "status": "PAID",
+    "snapshotBlock": 113601577,
+    "timestamp": "2026-09-05T17:58:42.244Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0xaeb60cea739c1a0713c3ae682a591df5a52e36763037a1911692815b0112e0fb"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113601689,
+    "status": "PAID",
+    "snapshotBlock": 113601689,
+    "timestamp": "2026-09-05T17:58:56.083Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0x378adf999d022d78ff38fe338dbedd94517aa4e2322fd966216fd00305538d35"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113601706,
+    "status": "PAID",
+    "snapshotBlock": 113601706,
+    "timestamp": "2026-09-05T17:59:08.602Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0x264160d9f4b0f8f0b3b78d4d1d4b4eb4b4d08c6f91dd25df432109e4d126a2c7"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113617994,
+    "status": "PAID",
+    "snapshotBlock": 113617994,
+    "timestamp": "2026-09-05T18:31:46.302Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0x9641ff4721fb5001837c58e57e7676ce77179ce7aa2b09a581ba4dcdfc1b8ea9"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113618094,
+    "status": "PAID",
+    "snapshotBlock": 113618094,
+    "timestamp": "2026-09-05T18:32:08.146Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0xc20f571684de30253c185337d40a9a65f8888558c4b87a45af24984a0e2485c2"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  }
+]

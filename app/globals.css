@@ -1,0 +1,36 @@
+/* Base rules ported verbatim from the design reference. */
+html, body { margin: 0; padding: 0; background: #f4f2ed; color: #14130f; }
+* { box-sizing: border-box; }
+a { color: #14130f; text-decoration: none; }
+a:hover { color: oklch(0.55 0.14 148); }
+::selection { background: oklch(0.55 0.14 148); color: #f4f2ed; }
+input { font-family: 'IBM Plex Mono', monospace; }
+
+@keyframes marq { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+@keyframes sheen { from { background-position: 0% 50%; } to { background-position: 200% 50%; } }
+
+/* Hover states. The prototype expressed these as style-hover attributes. */
+.nav-link { color: #6b6760; }
+.nav-link:hover { color: #14130f; }
+
+.buy-pill { background: #14130f; color: #f4f2ed; }
+.buy-pill:hover { background: oklch(0.55 0.14 148); color: #f4f2ed; }
+
+.buy-primary { color: #f7fbf8; background: linear-gradient(180deg, oklch(0.62 0.14 150), oklch(0.5 0.13 150)); }
+.buy-primary:hover { background: #14130f; color: #f7fbf8; }
+
+.x-button:hover { background: #e8e4da; color: #14130f; }
+
+.check-button { background: #14130f; color: #f4f2ed; }
+.check-button:hover { background: oklch(0.55 0.14 148); color: #f4f2ed; }
+.check-button:disabled { opacity: 0.55; cursor: not-allowed; }
+
+.pill-link { color: #6b6760; border: 1px solid #cac5ba; }
+.pill-link:hover { color: #14130f; border-color: #14130f; }
+
+.mono-link { color: #4a463f; }
+.mono-link:hover { color: oklch(0.55 0.14 148); }
+
+@media (prefers-reduced-motion: reduce) {
+  [data-marquee], [data-sheen] { animation: none !important; }
+}
