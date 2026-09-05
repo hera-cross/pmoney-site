@@ -24,7 +24,7 @@ export const siteConfig = {
 
   /** Pons buy link — the launchpad page for p-money. Empty renders the button disabled. */
   buyUrl: '',
-  xUrl: '',
+  xUrl: 'https://x.com/pmoneyonrh',
   dexscreenerUrl: '',
 
   /** Copy value in the "why we pay in pons" fact list. Update as PONS moves. */
